@@ -1,2 +1,4 @@
-flask==1.1.2
+Flask==1.1.2
+Jinja2==2.11.3
 cython==0.29.21
+pytest
